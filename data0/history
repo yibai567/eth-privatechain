@@ -1,0 +1,14 @@
+eth.accounts
+eth.getBalance()
+eth.getBalance('')
+eth.getBalance('0xbd13d5488e072e8c2bbd7b6f5ead4b9059158560')
+miner.start(1)
+eth.getBalance('0xbd13d5488e072e8c2bbd7b6f5ead4b9059158560')
+miner.stop()
+eth.getBalance('0xbd13d5488e072e8c2bbd7b6f5ead4b9059158560')
+eth.getBlockNumber()
+eth.getBlock()
+eth.blockNumber()
+eth.blockNumber
+txpool
+eth.accounts
